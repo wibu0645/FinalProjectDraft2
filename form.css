@@ -1,0 +1,35 @@
+background-color: #FFF;
+    a:focus {
+  outline: 5px solid red; /* Add your preferred focus highlight here */
+}
+body input[type="checkbox"],
+body input[type="radio"] {
+  padding: 10px!important;
+  border: 1px solid #979797;
+  margin-right: 5px;
+}
+
+body input[type="radio"] {
+  -moz-appearance: radio;
+  -webkit-appearance: radio;
+}
+
+.slide_content_container p.description {
+  max-width: fit-content;
+}
+
+.mybutton {
+  background-color: #4285f4;
+  border: none;
+  color: #ffffff;
+  padding: 10px 10px;
+  font-size: 24px;
+}
+
+.mission-header {
+  font-size: 14px; 
+  font-weight: bold; 
+  color: #007bff; 
+  /* Add any other styles you want for the header */
+}
+
