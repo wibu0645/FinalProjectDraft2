@@ -27,10 +27,10 @@ body input[type="radio"] {
 }
 /* Define the CSS class */
 .mission-header {
-  font-size: 14px; /* You can adjust the font size as per your preference */
-  font-weight: bold; /* You can adjust the font weight as per your preference */
-  color: #00008B; /* You can adjust the color as per your preference */
-  /* Add any other styles you want for the header */
+  font-size: 14px; 
+  font-weight: bold; 
+  color: #00008B; 
+
 }
 .vertical-separator {
   border-left: 2px solid navy; /* Using "navy" for dark blue color */
