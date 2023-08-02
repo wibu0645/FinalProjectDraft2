@@ -1,0 +1,59 @@
+/* Style for border list */
+.firstbox {
+  list-style-type: none;
+  padding: 0;
+  border: 1px solid black;  
+  max-width: 400px; 
+  margin: 0 auto; 
+  padding: 10px; 
+}
+
+/* Style for the list items within the 'custom-list' class */
+.custom-list li {
+  margin-bottom: 10px;
+}
+
+/* Style for the anchor links within the 'custom-list' class */
+.custom-list li a {
+  color: #EF4585;
+  text-decoration: none;
+}
+
+/* Style for the anchor links within the 'custom-list' class when hovered */
+.custom-list li a:hover {
+  text-decoration: underline;
+}
+.highlight {
+  color: #EF4585;
+  text-decoration: none;
+}
+.highlight:hover{
+  text-decoration: underline;
+}
+
+.mission-header {
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+}
+aside {
+  flex: 1;
+  margin-left: 10px;
+  padding: 1%;
+}
+
+.right-section {
+  flex: 1;
+  max-width: 30%;
+  margin-left: 5em;
+}
+.main-content {
+  flex: 1;
+  max-width: 70%;
+}
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 1%;
+  flex-wrap: wrap;
+}
