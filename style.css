@@ -2,9 +2,9 @@
 .firstbox {
   list-style-type: none;
   padding: 0;
-  border: 1px solid black;  
-  max-width: 400px; 
-  margin: 0 auto; 
+  border: 1px solid black;
+  max-width: 400px;
+  margin: 0 auto;
   padding: 10px; 
 }
 
@@ -15,7 +15,7 @@
 
 /* Style for the anchor links within the 'custom-list' class */
 .custom-list li a {
-  color: #EF4585;
+  color: #6a5eff;
   text-decoration: none;
 }
 
@@ -24,7 +24,7 @@
   text-decoration: underline;
 }
 .highlight {
-  color: #EF4585;
+  color: #6a5eff;
   text-decoration: none;
 }
 .highlight:hover{
@@ -57,3 +57,12 @@ aside {
   padding: 1%;
   flex-wrap: wrap;
 }
+.modern-h2 {
+  font-size: 28px; /* Adjust the font size as per your preference */
+  font-weight: bold;
+  color: #333; /* Set the desired text color */
+  text-transform: uppercase; /* Convert the text to uppercase */
+  letter-spacing: 2px; /* Add some letter spacing for a modern feel */
+  border-bottom: 3px solid #0C98BA; /* Add a colored underline to the title */
+  padding-bottom: 10px; /* Adjust the spacing between the title and underline */
+  }
