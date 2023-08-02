@@ -58,11 +58,11 @@ aside {
   flex-wrap: wrap;
 }
 .modern-h2 {
-  font-size: 28px; /* Adjust the font size as per your preference */
+  font-size: 28px; 
   font-weight: bold;
-  color: #333; /* Set the desired text color */
-  text-transform: uppercase; /* Convert the text to uppercase */
-  letter-spacing: 2px; /* Add some letter spacing for a modern feel */
+  color: #333; /* Set text color */
+  text-transform: uppercase; 
+  letter-spacing: 2px; /* 
   border-bottom: 3px solid #0C98BA; /* Add a colored underline to the title */
   padding-bottom: 10px; /* Adjust the spacing between the title and underline */
   }
